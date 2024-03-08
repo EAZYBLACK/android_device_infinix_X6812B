@@ -1,4 +1,4 @@
-# Android device tree for Infinix  (X6812B)
+# Android device tree for Infinix Hot 11S NFC (X6812B)
 
 ```
 #
