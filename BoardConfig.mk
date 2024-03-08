@@ -7,8 +7,8 @@
 DEVICE_PATH := device/infinix/X6812B
 
 # A/B
-AB_OTA_UPDATER := true
-AB_OTA_PARTITIONS +=
+# hope that works AB_OTA_UPDATER := true
+# hope that works AB_OTA_PARTITIONS +=
 BOARD_USES_RECOVERY_AS_BOOT := true
 
 # Architecture
